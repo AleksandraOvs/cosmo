@@ -13,7 +13,7 @@ jQuery(document).ready(function($)  {
     $(function () {
         let width = $(window).width();
         let body = $('.body');
-        let menu = $('.header-top__mobile .menu-osnovnoy-container');
+        let menu = $('.site-header__right');
     
         $(document).on('click', '.js-toggle-menu', function () {
             $(this).toggleClass('_open');
