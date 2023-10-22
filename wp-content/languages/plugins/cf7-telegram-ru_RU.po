@@ -1,0 +1,124 @@
+# Translation of Plugins - Contact Form 7 + Telegram - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Contact Form 7 + Telegram - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-09 18:34:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Contact Form 7 + Telegram - Stable (latest release)\n"
+
+#: classes/wpcf7telegram.php:327
+msgid "Add group: add your bot to the group and send the <code>%s</code> comand to your group"
+msgstr "Добавить группу: добавьте бота в группу и отправьте команду <code>%s</code> в группе"
+
+#: classes/wpcf7telegram.php:326
+msgid "Add user: send the <code>%s</code> comand to your bot"
+msgstr "Добавить пользователя: отправьте команду <code>%s</code> вашему боту"
+
+#: classes/wpcf7telegram.php:421
+msgid "Subscribed for Contact Form 7 notifications from"
+msgstr "Добавлен в рассылку уведомлений с форм сайта"
+
+#: classes/wpcf7telegram.php:520
+msgid "Delete"
+msgstr "Удалить"
+
+#: classes/wpcf7telegram.php:519
+msgid "Pause"
+msgstr "Пауза"
+
+#: classes/wpcf7telegram.php:518
+msgid "Approve"
+msgstr "Одобрить"
+
+#: classes/wpcf7telegram.php:324
+msgid "List is empty"
+msgstr "Список пуст."
+
+#: classes/wpcf7telegram.php:319
+msgid "Subscribers list"
+msgstr "Список подписчиков"
+
+#: classes/wpcf7telegram.php:312
+msgid "unknown"
+msgstr "неизвестен"
+
+#: classes/wpcf7telegram.php:312
+msgid "Bot is broken"
+msgstr "Бот не работает"
+
+#: classes/wpcf7telegram.php:311
+msgid "Bot is online"
+msgstr "Бот онлайн"
+
+#: classes/wpcf7telegram.php:306
+msgid "Bot username"
+msgstr "Ник бота"
+
+#: classes/wpcf7telegram.php:90
+msgid "Request refused"
+msgstr "Запрос отклонён"
+
+#: classes/wpcf7telegram.php:89
+msgid "Successfully approved"
+msgstr "Успешно одобрено"
+
+#: classes/wpcf7telegram.php:87
+msgid "Do you really want to refuse?"
+msgstr "Вы действительно желаете отклонить?"
+
+#: classes/wpcf7telegram.php:86
+msgid "Do you really want to approve?"
+msgstr "Одобрить?"
+
+#: classes/wpcf7telegram.php:39
+msgid "Prevent duplicate object creation"
+msgstr "Предотвращение создания дубликата объекта"
+
+#: classes/wpcf7telegram.php:115
+msgid "Defined by WPFC7TG_BOT_TOKEN constant"
+msgstr "Токен задан константой WPFC7TG_BOT_TOKEN"
+
+#: classes/wpcf7telegram.php:115
+msgid "or define by WPFC7TG_BOT_TOKEN constant"
+msgstr "или задайте константу WPFC7TG_BOT_TOKEN"
+
+#: classes/wpcf7telegram.php:295
+msgid "An error has occured. See php error log."
+msgstr "Произошла ошибка. Смотрите журнал ошибок PHP."
+
+#: classes/wpcf7telegram.php:88
+msgid "Do you really want to pause?"
+msgstr "Приостановить?"
+
+#. Plugin Name of the plugin
+msgid "Contact Form 7 + Telegram"
+msgstr "Contact Form 7 + Telegram"
+
+#. Description of the plugin
+msgid "Sends messages to Telegram-chat"
+msgstr "Отправляет сообщения в Telegram-чат"
+
+#: classes/wpcf7telegram.php:153
+msgid "Just use the shortcode <code>[telegram]</code> in the form for activate notification through Telegram."
+msgstr "Для включения уведомлений в Telegram-чат используйте шорткод <code>[telegram]</code> в ваших формах плагина Contact Form 7"
+
+#: classes/wpcf7telegram.php:143
+msgid "Telegram notificator settings"
+msgstr "Настройки уведомлений в Telegram"
+
+#: classes/wpcf7telegram.php:106
+msgid "Bot Token<br/><small>You need to create your own Telegram-Bot.<br/><a target=\"_blanc\" href=\"https://core.telegram.org/bots#3-how-do-i-create-a-bot\">How to create</a></small>"
+msgstr "Токен бота<br/><small>Вам нужно создать свой Telegram-бот.<br/><a target=\"_blanc\" href=\"https://core.telegram.org/bots#3-how-do-i-create-a-bot\">Как это сделать (англ)</a></small>"
+
+#: classes/wpcf7telegram.php:99
+msgid "Bot-settings"
+msgstr "Настройки бота"
+
+#. Author of the plugin
+msgid "Hokku"
+msgstr "Игорь Тронь"
