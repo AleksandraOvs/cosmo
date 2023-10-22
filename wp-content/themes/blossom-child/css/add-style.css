@@ -175,13 +175,13 @@ button#burger {
     top: 10px;
    left: 10px;
 }
-
+/* 
 .eicon-chevron-left:before, .eicon-chevron-right:before {
-    content: none;
-}
+    content: none !important;
+} */
 
 .eicon-chevron-left:before{
-    content:'';
+    content:'' !important;
     display: block;
     width:20px;
     height: 20px;
@@ -192,7 +192,7 @@ button#burger {
 }
 
 .eicon-chevron-right:before{
-    content:'';
+    content:'' !important;
     display: block;
     width:20px;
     height: 20px;
